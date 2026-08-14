@@ -16,6 +16,8 @@
 
 </div>
 
+![](https://github-readme-stats.shion.dev/api?username=leorsky&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 <br>
 
 ---
