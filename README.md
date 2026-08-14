@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=leorsky&theme=shadow_blue&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=leorsky&theme=shadow_blue&hide_border=false" alt="GitHub Streak">
 </p>
 
 <br>
