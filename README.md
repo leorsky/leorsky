@@ -16,7 +16,7 @@
 
 </div>
 
-![](https://streak-stats.demolab.com/?user=leorsky&theme=shadow_blue&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leorsky&theme=shadow_blue&hide_border=false)](https://git.io/streak-stats)
 
 <br>
 
