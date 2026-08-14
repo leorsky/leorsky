@@ -16,7 +16,9 @@
 
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=leorsky&theme=shadow_blue&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=leorsky&theme=shadow_blue&hide_border=false" alt="GitHub Streak">
+</p>
 
 <br>
 
