@@ -16,7 +16,7 @@
 
 </div>
 
-![](https://streak-stats.demolab.com/?user=leorsky&theme=shadow_red&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=leorsky&theme=shadow_blue&hide_border=false)<br/>
 
 <br>
 
