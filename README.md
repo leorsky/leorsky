@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Python+Backend+Developer+in+Progress;Building+Real+Projects;Exploring+HTTP+%26+REST+APIs;Working+with+HTTP+Clients;Understanding+Client-Server+Architecture;Learning+How+Backend+Works+Under+the+Hood;Improving+Every+Day+%E2%9A%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Python+Backend+Developer+in+Progress;Building+Real+Projects;Exploring+HTTP+%26+REST+APIs;Working+with+HTTP+Clients;Understanding+Client-Server+Architecture;Learning+How+Backend+Works+Under+the+Hood;Working+with+SQL+%26+PostgreSQL;Improving+Every+Day+%E2%9A%AA" alt="Typing SVG" />
 
 <br><br>
 
@@ -41,6 +41,9 @@
 * 🔄 Exploring **Sync & Async programming**
 * 📚 Learning to work with **API Documentation, Swagger & OpenAPI**
 * 🧪 Testing APIs with **Postman**
+* 🗄️ Working with **SQL, PostgreSQL & Database Design**
+* 🔗 Practicing **JOINs, Aggregations & Relationships**
+* ⚡ Learning the basics of **Indexes & Database Performance**
 * 🧠 Interested in understanding how systems work **under the hood**
 * 🛠️ Learning through **practice, experiments & real projects**
 * 📈 Using GitHub to **document my journey and track my progress**
@@ -56,9 +59,9 @@
 
 <br>
 
-|                              🤍 **LANGUAGE**                              |                                                                                                                                             🌐 **BACKEND & NETWORKING**                                                                                                                                             |                                                                                                                                                                                                                                                                            📡 **HTTP & APIs**                                                                                                                                                                                                                                                                            |                                       🛠️ **TOOLS**                                       |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55" /> | <img src="https://img.shields.io/badge/SOCKETS-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" /> <img src="https://img.shields.io/badge/TCP%2FIP-FFFFFF?style=for-the-badge&logoColor=000000" /><br><img src="https://img.shields.io/badge/CLIENT--SERVER-FFFFFF?style=for-the-badge&logoColor=000000" /> | <img src="https://img.shields.io/badge/HTTP-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" /> <img src="https://img.shields.io/badge/REST_API-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=000000" /><br><img src="https://img.shields.io/badge/JSON-FFFFFF?style=for-the-badge&logo=json&logoColor=000000" /> <img src="https://img.shields.io/badge/OPENAPI-FFFFFF?style=for-the-badge&logo=openapiinitiative&logoColor=000000" /><br><img src="https://img.shields.io/badge/SWAGGER-FFFFFF?style=for-the-badge&logo=swagger&logoColor=000000" /> | <img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode,postman&theme=dark" /> |
+|                              🤍 **LANGUAGE**                              |                                                                                                                                             🌐 **BACKEND & NETWORKING**                                                                                                                                             |                                                                                                                                                                                                                                                                            📡 **HTTP & APIs**                                                                                                                                                                                                                                                                            |                                             🛠️ **TOOLS**                                            |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55" /> | <img src="https://img.shields.io/badge/SOCKETS-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" /> <img src="https://img.shields.io/badge/TCP%2FIP-FFFFFF?style=for-the-badge&logoColor=000000" /><br><img src="https://img.shields.io/badge/CLIENT--SERVER-FFFFFF?style=for-the-badge&logoColor=000000" /> | <img src="https://img.shields.io/badge/HTTP-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" /> <img src="https://img.shields.io/badge/REST_API-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=000000" /><br><img src="https://img.shields.io/badge/JSON-FFFFFF?style=for-the-badge&logo=json&logoColor=000000" /> <img src="https://img.shields.io/badge/OPENAPI-FFFFFF?style=for-the-badge&logo=openapiinitiative&logoColor=000000" /><br><img src="https://img.shields.io/badge/SWAGGER-FFFFFF?style=for-the-badge&logo=swagger&logoColor=000000" /> | <img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode,postman,postgresql&theme=dark" /> |
 
 <br>
 
@@ -71,7 +74,18 @@
 
 <br><br>
 
-**Currently focused on:** `PYTHON` → `BACKEND` → `HTTP` → `REST APIs` → `HTTP CLIENTS` → `ARCHITECTURE`
+### `DATABASES & SQL`
+
+<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000" />
+<img src="https://img.shields.io/badge/POSTGRESQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000" />
+<img src="https://img.shields.io/badge/PGADMIN_4-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000" />
+<img src="https://img.shields.io/badge/JOIN-FFFFFF?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/GROUP_BY-FFFFFF?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/HAVING-FFFFFF?style=for-the-badge&logoColor=000000" />
+
+<br><br>
+
+**Currently focused on:** `PYTHON` → `BACKEND` → `HTTP` → `REST APIs` → `HTTP CLIENTS` → `SQL` → `POSTGRESQL` → `DATABASE DESIGN`
 
 </div>
 
@@ -93,7 +107,7 @@
 
 <br>
 
-`PYTHON` • `BACKEND` • `HTTP` • `REST APIs` • `NETWORKING` • `HTTP CLIENTS` • `APIs` • `ARCHITECTURE`
+`PYTHON` • `BACKEND` • `HTTP` • `REST APIs` • `NETWORKING` • `HTTP CLIENTS` • `SQL` • `POSTGRESQL` • `DATABASE DESIGN` • `APIs` • `ARCHITECTURE`
 
 <br><br>
 
