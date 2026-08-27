@@ -114,3 +114,40 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer" alt="Footer" />
 
 </div>
+
+
+<div align="center">
+
+## 🎓 `EDUCATION`
+
+<br>
+
+<a href="https://itstep.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/IT_Step_Academy_logo.svg/512px-IT_Step_Academy_logo.svg.png" width="130" alt="IT STEP University">
+</a>
+
+<br><br>
+
+### **IT STEP University — Dnipro**
+
+`3RD YEAR STUDENT`
+
+<br>
+
+**Studying Information Technologies & Software Development**
+
+<br>
+
+> *My education is an important part of my journey into backend development.*
+>
+> *Currently, I am in my **3rd year of study**, focusing on programming, software development and building a strong foundation for my career as a **Python Backend Developer**.*
+
+<br>
+
+`EDUCATION` • `SOFTWARE DEVELOPMENT` • `PYTHON` • `BACKEND`
+
+</div>
+
+<br>
+
+---
