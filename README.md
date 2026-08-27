@@ -123,14 +123,14 @@
 <br>
 
 <a href="https://itstep.edu.ua/">
-  <img src="./assets/it-step-university.png" width="280" alt="IT STEP University">
+  <img src="https://wsrv.nl/?url=fsx1.itstep.org%2Fapi%2Fv1%2Ffiles%2FvRUKsWm9N02MY8A83fYbg_6jyxbbOPep&output=png" width="280" alt="IT STEP University">
 </a>
 
 <br><br>
 
 ### **IT STEP University**
 
-#### `3RD YEAR STUDENT`
+`3RD YEAR STUDENT`
 
 <br>
 
@@ -152,7 +152,7 @@
 <br><br>
 
 <a href="https://itstep.edu.ua/">
-  <img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge&logoColor=white" alt="IT STEP University">
+  <img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge" alt="IT STEP University">
 </a>
 
 </div>
