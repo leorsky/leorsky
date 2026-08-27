@@ -115,7 +115,7 @@
 
 ### 🎓 **Currently studying at IT STEP University**
 
-`3RD YEAR` • `123 COMPUTER ENGINEERING` • `SOFTWARE DEVELOPMENT`
+`3RD YEAR` • `123 COMPUTER ENGINEERING`
 
 <br>
 
