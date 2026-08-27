@@ -122,9 +122,7 @@
 
 <br>
 
-<a href="https://itstep.edu.ua/">
-  <img src="https://wsrv.nl/?url=fsx1.itstep.org%2Fapi%2Fv1%2Ffiles%2FvRUKsWm9N02MY8A83fYbg_6jyxbbOPep&output=png" width="280" alt="IT STEP University">
-</a>
+<img src="./assets/it-step-university.png" width="280" alt="IT STEP University">
 
 <br><br>
 
@@ -140,23 +138,11 @@
 
 > **Currently studying in my 3rd year at IT STEP University.**
 >
-> Alongside my university studies, I am continuously developing my practical skills
-> and building my path toward becoming a **Python Backend Developer**.
->
-> **Learning → Building → Practicing → Improving**
+> Combining university education with self-study and practical development,
+> I am building my path toward becoming a **Python Backend Developer**.
 
 <br>
 
 `3RD YEAR` • `COMPUTER SCIENCE` • `SOFTWARE DEVELOPMENT` • `PYTHON BACKEND`
 
-<br><br>
-
-<a href="https://itstep.edu.ua/">
-  <img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge" alt="IT STEP University">
-</a>
-
 </div>
-
-<br>
-
----
