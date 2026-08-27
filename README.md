@@ -59,17 +59,13 @@
 
 <br>
 
-<img src="https://www.education.ua/upload/images/0fa6/1d86/10886.png" width="280" alt="IT STEP University">
-
-<br><br>
-
 ### **IT STEP University**
 
-`3RD YEAR STUDENT`
+`3RD YEAR` • `F3 COMPUTER SCIENCE`
 
 <br>
 
-**Computer Science • Software Development**
+**Software Development • Bachelor's Degree**
 
 <br><br>
 
