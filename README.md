@@ -122,11 +122,7 @@
 
 <br>
 
-<img
-  src="https://www.education.ua/upload/images/0fa6/1d86/10886.png"
-  width="280"
-  alt="IT STEP University"
->
+<img src="https://www.education.ua/upload/images/0fa6/1d86/10886.png" width="280" alt="IT STEP University">
 
 <br><br>
 
@@ -153,12 +149,7 @@
 
 <br><br>
 
-<a href="https://itstep.edu.ua/">
-  <img
-    src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge&logoColor=FFFFFF"
-    alt="IT STEP University"
-  >
-</a>
+<a href="https://itstep.edu.ua/"><img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge&logoColor=FFFFFF" alt="IT STEP University"></a>
 
 </div>
 
