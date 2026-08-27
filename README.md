@@ -55,6 +55,34 @@
 
 <div align="center">
 
+## 🎓 `EDUCATION`
+
+<br>
+
+<img src="https://www.education.ua/upload/images/0fa6/1d86/10886.png" width="280" alt="IT STEP University">
+
+<br><br>
+
+### **IT STEP University**
+
+`3RD YEAR STUDENT`
+
+<br>
+
+**Computer Science • Software Development**
+
+<br><br>
+
+<a href="https://itstep.edu.ua/"><img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge&logoColor=FFFFFF" alt="IT STEP University"></a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
 ## ⚡ `TECHNOLOGIES & TOOLS`
 
 <br>
@@ -114,45 +142,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer" alt="Footer" />
 
 </div>
-
-
-<div align="center">
-
-## 🎓 `EDUCATION`
-
-<br>
-
-<img src="https://www.education.ua/upload/images/0fa6/1d86/10886.png" width="280" alt="IT STEP University">
-
-<br><br>
-
-### **IT STEP University**
-
-`3RD YEAR STUDENT`
-
-<br>
-
-**Computer Science • Software Development**
-
-<br>
-
-> **Currently studying in my 3rd year at IT STEP University.**
->
-> Alongside my university studies, I am continuously developing my practical skills
-> and building my path toward becoming a **Python Backend Developer**.
->
-> **Learning → Building → Practicing → Improving**
-
-<br>
-
-`3RD YEAR` • `COMPUTER SCIENCE` • `SOFTWARE DEVELOPMENT` • `PYTHON BACKEND`
-
-<br><br>
-
-<a href="https://itstep.edu.ua/"><img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge&logoColor=FFFFFF" alt="IT STEP University"></a>
-
-</div>
-
-<br>
-
----
