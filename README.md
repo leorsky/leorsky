@@ -122,29 +122,34 @@
 
 <br>
 
-<a href="https://itstep.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/IT_Step_Academy_logo.svg/512px-IT_Step_Academy_logo.svg.png" width="130" alt="IT STEP University">
+<a href="https://dtu.edu.ua/">
+  <img src="https://dtu.edu.ua/images/logo.svg" width="220" alt="Dnipro Technological University STEP">
 </a>
 
 <br><br>
 
-### **IT STEP University — Dnipro**
+### **Dnipro Technological University STEP**
 
 `3RD YEAR STUDENT`
 
 <br>
 
-**Studying Information Technologies & Software Development**
+**Bachelor's Degree • Software Development**
 
 <br>
 
-> *My education is an important part of my journey into backend development.*
+> **Currently studying in my 3rd year at Dnipro Technological University STEP.**
 >
-> *Currently, I am in my **3rd year of study**, focusing on programming, software development and building a strong foundation for my career as a **Python Backend Developer**.*
+> Combining university education with intensive self-study and practical development,
+> with a strong focus on **Python Backend Development**.
 
 <br>
 
-`EDUCATION` • `SOFTWARE DEVELOPMENT` • `PYTHON` • `BACKEND`
+`3RD YEAR` • `SOFTWARE DEVELOPMENT` • `PYTHON` • `BACKEND`
+
+<br><br>
+
+[Dnipro Technological University STEP](https://dtu.edu.ua/?utm_source=chatgpt.com)
 
 </div>
 
