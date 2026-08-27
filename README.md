@@ -123,7 +123,7 @@
 <br>
 
 <img
-  src="https://wsrv.nl/?url=https%3A%2F%2Fwww.education.ua%2Fupload%2Fimages%2F0fa6%2F1d86%2F10886.png&output=png"
+  src="https://www.education.ua/upload/images/0fa6/1d86/10886.png"
   width="280"
   alt="IT STEP University"
 >
