@@ -55,30 +55,6 @@
 
 <div align="center">
 
-## 🎓 `EDUCATION`
-
-<br>
-
-### **IT STEP University**
-
-`3RD YEAR` • `F3 COMPUTER SCIENCE`
-
-<br>
-
-**Software Development • Bachelor's Degree**
-
-<br><br>
-
-<a href="https://itstep.edu.ua/"><img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge&logoColor=FFFFFF" alt="IT STEP University"></a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 ## ⚡ `TECHNOLOGIES & TOOLS`
 
 <br>
@@ -134,6 +110,20 @@
 `PYTHON` • `BACKEND` • `HTTP` • `REST APIs` • `NETWORKING` • `HTTP CLIENTS` • `SQL` • `POSTGRESQL` • `DATABASE DESIGN` • `APIs` • `ARCHITECTURE`
 
 <br><br>
+
+---
+
+### 🎓 **Currently studying at IT STEP University**
+
+`3RD YEAR` • `122 COMPUTER SCIENCE` • `SOFTWARE DEVELOPMENT`
+
+<br>
+
+<a href="https://itstep.edu.ua/"><img src="https://img.shields.io/badge/IT_STEP_UNIVERSITY-000000?style=for-the-badge&logoColor=FFFFFF" alt="IT STEP University"></a>
+
+<br><br>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer" alt="Footer" />
 
