@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Python+Backend+Developer+in+Progress;Building+Real+Projects;Exploring+HTTP+%26+REST+APIs;Working+with+HTTP+Clients;Understanding+Client-Server+Architecture;Learning+How+Backend+Works+Under+the+Hood;Working+with+SQL+%26+PostgreSQL;Improving+Every+Day+%E2%9A%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Python+Backend+Developer+in+Progress;Building+Real+Projects;Exploring+HTTP+%26+REST+APIs;Working+with+HTTP+Clients;Understanding+Client-Server+Architecture;Learning+How+Backend+Works+Under+the+Hood;Working+with+SQL+%26+PostgreSQL;Working+with+SQLAlchemy+%26+ORM;Managing+Database+Migrations+with+Alembic;Improving+Every+Day+%E2%9A%AA" alt="Typing SVG" />
 
 <br><br>
 
@@ -44,6 +44,9 @@
 * 🗄️ Working with **SQL, PostgreSQL & Database Design**
 * 🔗 Practicing **JOINs, Aggregations & Relationships**
 * ⚡ Learning the basics of **Indexes & Database Performance**
+* 🧩 Working with **SQLAlchemy ORM & Database Models**
+* 🔄 Managing **Database Migrations with Alembic**
+* 🛠️ Building **Database Layers with SQLAlchemy**
 * 🧠 Interested in understanding how systems work **under the hood**
 * 🛠️ Learning through **practice, experiments & real projects**
 * 📈 Using GitHub to **document my journey and track my progress**
@@ -85,7 +88,17 @@
 
 <br><br>
 
-**Currently focused on:** `PYTHON` → `BACKEND` → `HTTP` → `REST APIs` → `HTTP CLIENTS` → `SQL` → `POSTGRESQL` → `DATABASE DESIGN`
+### `ORM & DATABASE TOOLS`
+
+<img src="https://img.shields.io/badge/SQLALCHEMY-FFFFFF?style=for-the-badge&logo=sqlalchemy&logoColor=000000" />
+<img src="https://img.shields.io/badge/ORM-FFFFFF?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/ALEMBIC-FFFFFF?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/CRUD-FFFFFF?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/MIGRATIONS-FFFFFF?style=for-the-badge&logoColor=000000" />
+
+<br><br>
+
+**Currently focused on:** `PYTHON` → `BACKEND` → `HTTP` → `REST APIs` → `HTTP CLIENTS` → `SQL` → `POSTGRESQL` → `SQLALCHEMY` → `ORM` → `ALEMBIC`
 
 </div>
 
@@ -107,7 +120,7 @@
 
 <br>
 
-`PYTHON` • `BACKEND` • `HTTP` • `REST APIs` • `NETWORKING` • `HTTP CLIENTS` • `SQL` • `POSTGRESQL` • `DATABASE DESIGN` • `APIs` • `ARCHITECTURE`
+`PYTHON` • `BACKEND` • `HTTP` • `REST APIs` • `NETWORKING` • `HTTP CLIENTS` • `SQL` • `POSTGRESQL` • `DATABASE DESIGN` • `SQLALCHEMY` • `ORM` • `ALEMBIC` • `APIs` • `ARCHITECTURE`
 
 <br><br>
 
